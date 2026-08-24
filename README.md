@@ -1,6 +1,6 @@
 # NTI_Traning_4_Months
 
-Personal repository documenting my 4-month **VLSI / Chip Design** training program with **NTI (National Telecommunication Institute)**. This repo contains the projects, labs, and hands-on work completed throughout the training track.
+Personal repository documenting my 4-month **IC Design** training program with **NTI (National Telecommunication Institute)**. This repo contains the projects, labs, and hands-on work completed throughout the training track.
 
 ---
 
