@@ -1,0 +1,28 @@
+S 0 2
+P 8 1 1 0  313 0 5781 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+J 1 5781 1.000000 1 180224 0 0 0 0
+O D:/quartus/questa_fse/win64/voptk2.exe
+O -refresh
+O -jsubproc
+O -nolock
+O -stats=none
+O -nologo
+O -allow_unnamed
+O -suppress
+O 1979
+O -suppress
+O 167
+O -o
+O _opt
+O -work
+O work
+O -quiet
+O -opt=nocgRM
+O -jmem_size
+O 541104
+O -noenableprofile
+O -enableprofile1
+DPI_GLOBALS 0 0
+VOPT_STATS 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+LOCKED_FILE D:/NTI/labs/work _opt__lock 1-700894a8ed43-6a887a0c-b-7d0
+VHDL_GLOBALS 0

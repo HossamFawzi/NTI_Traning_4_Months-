@@ -1,0 +1,42 @@
+D:/NTI/labs/full_adder_3.v {1 {vlog -work work -vopt -stats=none D:/NTI/labs/full_adder_3.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/NTI/labs/lab1.mpf' is used as the ini file.
+-- Compiling module full_adder_gate
+
+Top level modules:
+	full_adder_gate
+
+} {} {}} D:/NTI/labs/full_adder_1.v {1 {vlog -work work -vopt -stats=none D:/NTI/labs/full_adder_1.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/NTI/labs/lab1.mpf' is used as the ini file.
+-- Compiling module full_adder_dataflow
+
+Top level modules:
+	full_adder_dataflow
+
+} {} {}} D:/NTI/labs/full_adder.v {1 {vlog -work work -vopt -stats=none D:/NTI/labs/full_adder.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/NTI/labs/lab1.mpf' is used as the ini file.
+-- Compiling module full_adder_behavioral
+
+Top level modules:
+	full_adder_behavioral
+
+} {} {}} D:/NTI/labs/full_adder_2.v {1 {vlog -work work -vopt -stats=none D:/NTI/labs/full_adder_2.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/NTI/labs/lab1.mpf' is used as the ini file.
+-- Compiling module half_adder
+-- Compiling module full_adder_structural
+
+Top level modules:
+	full_adder_structural
+
+} {} {}} D:/NTI/labs/full_adder_tb.v {1 {vlog -work work -vopt -stats=none D:/NTI/labs/full_adder_tb.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/NTI/labs/lab1.mpf' is used as the ini file.
+-- Compiling module full_adder_tb
+
+Top level modules:
+	full_adder_tb
+
+} {} {}}

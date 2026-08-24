@@ -1,0 +1,53 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "H[0]",
+					"strict" : false
+				},
+				{
+					"name" : "H[1]",
+					"strict" : false
+				},
+				{
+					"name" : "H[2]",
+					"strict" : false
+				},
+				{
+					"name" : "H[3]",
+					"strict" : false
+				},
+				{
+					"name" : "H[4]",
+					"strict" : false
+				},
+				{
+					"name" : "H[5]",
+					"strict" : false
+				},
+				{
+					"name" : "H[6]",
+					"strict" : false
+				},
+				{
+					"name" : "grey_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "grey_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "grey_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "grey_in[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

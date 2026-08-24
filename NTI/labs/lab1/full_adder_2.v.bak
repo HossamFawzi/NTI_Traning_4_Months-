@@ -1,0 +1,20 @@
+module full_adder_2 (
+    input  A,
+    input  B,
+    input  Cin,
+    output Sum,
+    output Cout
+);
+
+    wire AxorB;
+    wire AB;
+    wire CinAxorB;
+
+    assign AxorB = A ^ B;
+    assign Sum = Cin ^ AxorB;
+    assign AB = A & B;
+    assign CinAxorB = Cin & AxorB;
+    assign Cout = AB | CinAxorB;
+    
+endmodule 
+

@@ -1,0 +1,36 @@
+D:/NTI/labs/lap3/gray_to_binary.v {1 {vlog -work work {D:\NTI\labs\lap3\gray_to_binary.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module gray_to_binary
+
+Top level modules:
+	gray_to_binary
+
+} {} {}} D:/NTI/labs/lap3/decoder.v {1 {vlog -work work D:/NTI/labs/lap3/decoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} D:/NTI/labs/lap3/encoder16to4.v {1 {vlog -work work D:/NTI/labs/lap3/encoder16to4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module encoder16to4
+
+Top level modules:
+	encoder16to4
+
+} {} {}} D:/NTI/labs/lap3/decoder_tb.v {1 {vlog -work work D:/NTI/labs/lap3/decoder_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_tb
+
+Top level modules:
+	decoder_tb
+
+} {} {}} D:/NTI/labs/lap3/encoder16to4_tb.v {1 {vlog -work work D:/NTI/labs/lap3/encoder16to4_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module encoder16to4_tb
+
+Top level modules:
+	encoder16to4_tb
+
+} {} {}}

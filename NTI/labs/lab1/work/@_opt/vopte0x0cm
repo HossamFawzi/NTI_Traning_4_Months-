@@ -1,0 +1,193 @@
+m255
+K3
+z0
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f MIXED_VERSIONS
+13
+cModel Technology
+dC:\altera\13.0sp1
+T_opt
+!i145 1
+!i144 0
+!s110 1787329045
+V;QKV]hlk9llh>V[OWB3=h2
+04 13 4 work full_adder_tb fast 0
+=1-700894a8ed43-6a887a0c-b-7d0
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U7 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+OL;O;2025.2;82
+vfull_adder
+InJ]FZ@g]F=m_3l:B5nF:43
+VDUJ^hNzT3=5QZ0SE<i6DV2
+Z1 dD:\NTI\labs
+w1787126708
+Z2 8D:/NTI/labs/full_adder_tb.v
+Z3 FD:/NTI/labs/full_adder_tb.v
+L0 1
+Z4 OV;L;10.1d;51
+r1
+31
+Z5 o-work work -O0
+!s100 CnF03Ed7?3hmgmXeD]bil0
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_1
+IMHP==:Mh5dYLaC]LjbU^^3
+VKYe@kg;n@g1bMje;YkOfT3
+R1
+w1787127982
+Z6 8D:/NTI/labs/full_adder_3.v
+Z7 FD:/NTI/labs/full_adder_3.v
+L0 2
+R4
+r1
+31
+R5
+!s100 kJkM6PH[ccWjiHfabedLj1
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_2
+!s100 d[BzUI70;`lnhMN]SRZ8=3
+IQ3_?gE5GF^;n4OjGjQ:<T1
+V;D983WI@`U]0lTH7m:RMe2
+R1
+w1787127810
+Z8 8D:/NTI/labs/full_adder_2.v
+Z9 FD:/NTI/labs/full_adder_2.v
+L0 1
+R4
+r1
+31
+R5
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_behavioral
+2D:/NTI/labs/full_adder.v
+Z10 !s110 1787328949
+!i10b 1
+!s100 oKOg<Pj1Mh@Q8fBWW]DzI3
+Ikf@5bebIXTJUXj<C=lhGE3
+Z11 dD:/NTI/labs
+w1787128915
+8D:/NTI/labs/full_adder.v
+FD:/NTI/labs/full_adder.v
+!i122 0
+L0 1 13
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+Z13 OL;L;2025.2;82
+r1
+!s85 0
+31
+!i113 0
+Z14 o-work work
+Z15 tCvgOpt 0 defaultOptions 1085333592
+vfull_adder_dataflow
+2D:/NTI/labs/full_adder_1.v
+Z16 !s110 1787328950
+!i10b 1
+!s100 iSN4VVNIC_98llk?D:4>S2
+I5bH`BIkPmV;5C8_GdmQk21
+R11
+w1787128921
+8D:/NTI/labs/full_adder_1.v
+FD:/NTI/labs/full_adder_1.v
+!i122 2
+L0 1 12
+R12
+R13
+r1
+!s85 0
+31
+!i113 0
+R14
+R15
+vfull_adder_gate
+2D:/NTI/labs/full_adder_3.v
+R16
+!i10b 1
+!s100 Cc2B:BCMiUi94n9lib_4d3
+IQCV=mNF;RPON@KA^DEIbL3
+R11
+w1787128928
+R6
+R7
+!i122 4
+L0 1 21
+R12
+R13
+r1
+!s85 0
+31
+!i113 0
+R14
+R15
+vfull_adder_structural
+Z17 2D:/NTI/labs/full_adder_2.v
+R16
+!i10b 1
+!s100 <?6W82X@;7^eAiJNMZEDZ2
+I8C3Aczl;m]Kk<ec?I167^0
+R11
+Z18 w1787128781
+R8
+R9
+!i122 3
+L0 14 27
+R12
+R13
+r1
+!s85 0
+31
+!i113 0
+R14
+R15
+vfull_adder_tb
+2D:/NTI/labs/full_adder_tb.v
+R10
+!i10b 1
+!s100 ^XTOGLlmkSJcgEmA?:UE61
+IgGWz]?2oY0eh3nbI33KR[3
+R11
+w1787130594
+R2
+R3
+!i122 1
+L0 1 61
+R12
+R13
+r1
+!s85 0
+31
+!i113 0
+R14
+R15
+vhalf_adder
+R17
+R16
+!i10b 1
+!s100 97GK>STZ]M[l9NP<hXT2n0
+IJ4a45SJ@dZN20XZ^1E=023
+R11
+R18
+R8
+R9
+!i122 3
+L0 1 11
+R12
+R13
+r1
+!s85 0
+31
+!i113 0
+R14
+R15

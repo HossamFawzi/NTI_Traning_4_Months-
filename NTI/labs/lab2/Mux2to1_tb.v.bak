@@ -1,0 +1,13 @@
+module mux2to1_tb ();
+  
+  reg s ,d0 ,d1;
+  wire y;
+  reg not_s , out_g2 , out_g3;
+  
+  
+  intial 
+  begain 
+  
+  
+end
+endmodule 

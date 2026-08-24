@@ -1,0 +1,43 @@
+module mux2to1 (s,d0,d1,y);
+  input s ,d0 ,d1;
+  output y;
+  wire not_s , out_g2 , out_g3;
+  
+  invgate g1(s , not_s);
+  andgate g2 (d0 , not_s , out_g2);
+  andgate g3 (d1 , s , out_g3);
+  orgate g4 (out_g2 , out_g3 , y);
+  
+endmodule 
+
+
+module andgate (a,b,c);
+  input wire a , b ;
+  output c ;
+  
+  
+  assign c = a & b ;
+  
+  
+endmodule 
+
+
+
+module orgate (a,b,c);
+  input wire a , b ;
+  output c ;
+  
+  
+  assign c = a | b ;
+  
+  
+  
+endmodule
+
+module invgate (a,c);
+  input wire a  ;
+  output c ;
+  
+  
+  assign c = ~a ;
+endmodule

@@ -1,0 +1,9 @@
+D:/NTI/labs/lab3_Ramdan/graytobinary.v {1 {vlog -work work {D:\NTI\labs\lab3_Ramdan\graytobinary.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module gray_to_binary
+-- Compiling module gray_to_binary_tb
+
+Top level modules:
+	gray_to_binary_tb
+
+} {} {}}

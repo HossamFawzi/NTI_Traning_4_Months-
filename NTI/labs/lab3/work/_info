@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vdecoder
+Z1 !s100 ]BzNE9WYJELOYkM;11l3c0
+Z2 IW4LLB6PG7L_R:VYih?G^e3
+Z3 VIAbBBjOAnL<^7GUZ6z1IQ0
+Z4 dD:\NTI\labs\lap3
+Z5 w1787396234
+Z6 8D:/NTI/labs/lap3/decoder.v
+Z7 FD:/NTI/labs/lap3/decoder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/NTI/labs/lap3/decoder.v|
+Z10 o-work work -O0
+Z11 !s108 1787402110.032000
+Z12 !s107 D:/NTI/labs/lap3/decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_tb
+Z13 !s100 l?hcU0z1A3ZUKSokKbU2S0
+Z14 ISimYTY9?@9mz6S8NldKW>1
+Z15 V=ka5g8LfkPkNOiWKG@ETE2
+R4
+Z16 w1787384235
+Z17 8D:/NTI/labs/lap3/decoder_tb.v
+Z18 FD:/NTI/labs/lap3/decoder_tb.v
+L0 3
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/NTI/labs/lap3/decoder_tb.v|
+R10
+Z20 !s108 1787402110.078000
+Z21 !s107 D:/NTI/labs/lap3/decoder_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vencoder16to4
+Z22 !s100 6cmQ_G^>b>;5W7Dh`g:>Z1
+Z23 IXa:HMHKV1GNfQ=lBm7lR]0
+Z24 V>S8b@PI`keO5O`[gzRWJe3
+R4
+Z25 w1787387068
+Z26 8D:/NTI/labs/lap3/encoder16to4.v
+Z27 FD:/NTI/labs/lap3/encoder16to4.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/NTI/labs/lap3/encoder16to4.v|
+R10
+Z29 !s108 1787402110.123000
+Z30 !s107 D:/NTI/labs/lap3/encoder16to4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vencoder16to4_tb
+Z31 !s100 Umkh?9hT2g5V_C<3M6<@Y3
+Z32 IDg?Ko_SXb]U7S@HFPHR<^1
+Z33 VbD?jnjVeZE0f>CY@m8nH13
+R4
+Z34 w1787387955
+Z35 8D:/NTI/labs/lap3/encoder16to4_tb.v
+Z36 FD:/NTI/labs/lap3/encoder16to4_tb.v
+L0 3
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|D:/NTI/labs/lap3/encoder16to4_tb.v|
+R10
+Z38 !s108 1787402110.166000
+Z39 !s107 D:/NTI/labs/lap3/encoder16to4_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vgray_to_binary
+Z40 !s100 M;S1[?J?]VcC>CE29Pz`G0
+Z41 IQaFEP<J_zJ>LJ:aNDEjmJ0
+Z42 V0YKbX5am>jHbLi6zRdAVQ0
+R4
+Z43 w1787391316
+Z44 8D:\NTI\labs\lap3\gray_to_binary.v
+Z45 FD:\NTI\labs\lap3\gray_to_binary.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|D:\NTI\labs\lap3\gray_to_binary.v|
+R10
+!i10b 1
+!s85 0
+Z47 !s108 1787402110.212000
+Z48 !s107 D:\NTI\labs\lap3\gray_to_binary.v|
+!s101 -O0
+vseven_seg
+!i10b 1
+!s100 ?_T:@BG5=6=a^e`gU`XjM0
+Ij7h2bFQXm?XdeV4EhVhDG2
+Z49 Vg^?@gh^W[dH<P<<aZ55Qb3
+R4
+w1787402103
+Z50 8D:\NTI\labs\lap3\seven_seg.v
+Z51 FD:\NTI\labs\lap3\seven_seg.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1787402110.254000
+!s107 D:\NTI\labs\lap3\seven_seg.v|
+Z52 !s90 -reportprogress|300|-work|work|D:\NTI\labs\lap3\seven_seg.v|
+!s101 -O0
+R10

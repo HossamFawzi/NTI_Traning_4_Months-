@@ -1,0 +1,16 @@
+
+module full_adder( 
+a ,b ,cin , sum ,cout);
+  wire a xor b;
+  wire cin a xor b ;
+  wire ab;
+  reg sum ;
+  reg cout ;
+  
+  assign a xor b = a ^ b ;
+  assign sum = cinxor(a xor b);
+  assign (a xor b) & cin; 
+  assign carry = a&b | (cin & (a xor b));    
+  assign a and b = a & b ; 
+
+endmodule

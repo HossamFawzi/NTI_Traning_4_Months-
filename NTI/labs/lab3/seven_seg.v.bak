@@ -1,0 +1,24 @@
+module seven_seg (B , H );
+
+	input wire  [3:0] B;
+    reg [6:0] H_N ;
+	output  reg [6:0]H ;
+
+always@(*)begin
+
+ casex (B)
+ 'd0 : H_N = 'b1111111; //0
+ 'd1 : H_N = 'b00000110; //1
+ 'd2 : H_N = 'b1011011; //2 
+ 'd3 : H_N = 'b1001111; //3
+ 'd4 : H_N = 'b1100110; //4
+ 'd5 : H_N = 'b1101101; //5 
+ 'd6 : H_N = 'b1111101; //6
+ 'd7 : H_N = 'b0000111; //7
+ 'd8 : H_N = 'b1111111; //8
+ 'd9 : H_N = 'b1101111; //9
+ endcase
+H=~H_N;
+end
+
+endmodule 

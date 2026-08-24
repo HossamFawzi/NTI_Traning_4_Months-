@@ -1,0 +1,40 @@
+|top_gray_to_sev
+grey_in[0] => grey_in[0].IN1
+grey_in[1] => grey_in[1].IN1
+grey_in[2] => grey_in[2].IN1
+grey_in[3] => grey_in[3].IN1
+H[0] << seven_seg:Sev_Seg_1.H
+H[1] << seven_seg:Sev_Seg_1.H
+H[2] << seven_seg:Sev_Seg_1.H
+H[3] << seven_seg:Sev_Seg_1.H
+H[4] << seven_seg:Sev_Seg_1.H
+H[5] << seven_seg:Sev_Seg_1.H
+H[6] << seven_seg:Sev_Seg_1.H
+
+
+|top_gray_to_sev|gray_to_binary:GtoB_1
+gray_in[0] => result.IN1
+gray_in[1] => result.IN1
+gray_in[2] => result.IN0
+gray_in[3] => result.IN1
+gray_in[3] => binary[3].DATAIN
+binary[0] <= result.DB_MAX_OUTPUT_PORT_TYPE
+binary[1] <= result.DB_MAX_OUTPUT_PORT_TYPE
+binary[2] <= result.DB_MAX_OUTPUT_PORT_TYPE
+binary[3] <= gray_in[3].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_gray_to_sev|seven_seg:Sev_Seg_1
+B[0] => Decoder0.IN3
+B[1] => Decoder0.IN2
+B[2] => Decoder0.IN1
+B[3] => Decoder0.IN0
+H[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+H[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+H[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+H[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+H[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+H[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+H[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

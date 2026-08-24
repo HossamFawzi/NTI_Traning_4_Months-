@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\NTI\labs\lab4
+vgray_to_binary
+!i10b 1
+Z1 !s100 ]]HAg]d>]iS@B:HB=8EP43
+Z2 IaA;6CNjbVV<`i6ALT<Bk43
+Z3 Vn`LWNEI29h^Z_Um;5CTH@2
+Z4 dD:\NTI\labs\lab5
+Z5 w1787560800
+Z6 8D:\NTI\labs\lab5\top_gray_to_sev.v
+Z7 FD:\NTI\labs\lab5\top_gray_to_sev.v
+L0 47
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1787565468.469000
+Z10 !s107 D:\NTI\labs\lab5\top_gray_to_sev.v|
+Z11 !s90 -reportprogress|300|-work|work|D:\NTI\labs\lab5\top_gray_to_sev.v|
+!s101 -O0
+Z12 o-work work -O0
+vgray_to_binary_tb
+!i10b 1
+Z13 !s100 V`76:Y2KmBUef@=b?jj?D1
+Z14 IlCkOQ@MU2GBQT]>nhzzF31
+Z15 V2zzYiM]O_O^g2K9H]bDQ70
+R4
+R5
+R6
+R7
+L0 67
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+vseven_seg
+!i10b 1
+Z16 !s100 N6c[JVeGAkRj40?Dz@?1_3
+Z17 IHmH3=W4UeK>ST]:?R?G<X2
+Z18 Vg^?@gh^W[dH<P<<aZ55Qb3
+R4
+R5
+R6
+R7
+L0 23
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+vtop_gray_to_sev
+!i10b 1
+Z19 !s100 e24GnCT^lRn`mjMJgR@9H1
+Z20 IXHUZngNAMna;TfmzdUV3]0
+Z21 VGHhb^U56=gSeXo:URjbdY2
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12

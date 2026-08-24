@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\NTI\labs\lap3
+vgray_to_binary
+!i10b 1
+Z1 !s100 DGmDGIbE4b`:=7I^:Kz[Q2
+Z2 ILQXAcKimD`zm;5MnMzEEz3
+Z3 VZHDm2N>^hhLF;IIYj?2gI3
+Z4 dD:\NTI\labs\lab3_Ramdan
+Z5 w1787393114
+Z6 8D:\NTI\labs\lab3_Ramdan\graytobinary.v
+Z7 FD:\NTI\labs\lab3_Ramdan\graytobinary.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1787393126.703000
+Z10 !s107 D:\NTI\labs\lab3_Ramdan\graytobinary.v|
+Z11 !s90 -reportprogress|300|-work|work|D:\NTI\labs\lab3_Ramdan\graytobinary.v|
+!s101 -O0
+Z12 o-work work -O0
+vgray_to_binary_tb
+!i10b 1
+Z13 !s100 N@Wk_2ZNRT>QXM@oA:2OX2
+Z14 I>dj28C=1H>3n7T`Zeb5YI2
+Z15 V2zzYiM]O_O^g2K9H]bDQ70
+R4
+R5
+R6
+R7
+L0 16
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12

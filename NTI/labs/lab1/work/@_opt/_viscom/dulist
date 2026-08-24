@@ -1,0 +1,6 @@
+1 21 full_adder_behavioral 4 fast 16 D:/NTI/labs/work 0 0 0 0 24 0
+1 10 half_adder 4 fast 16 D:/NTI/labs/work 0 0 0 0 16 0
+1 21 full_adder_structural 4 fast 16 D:/NTI/labs/work 0 0 0 0 59 0
+1 15 full_adder_gate 4 fast 16 D:/NTI/labs/work 0 0 180224 0 33 0
+1 19 full_adder_dataflow 4 fast 16 D:/NTI/labs/work 0 0 0 0 26 0
+1 13 full_adder_tb 4 fast 16 D:/NTI/labs/work 0 0 180224 0 313 0

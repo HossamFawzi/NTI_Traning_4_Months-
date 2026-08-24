@@ -1,0 +1,26 @@
+module gray_to_binary (gray, binary);
+input [3:0]gray;
+output [3:0]binary;
+integer i;
+reg [3:0]result; 
+always@(*)begin
+result[3] = gray[3];
+for (i = 2; i >=0; i = i - 1) begin
+result[i] = gray[i] ^ result[i + 1];
+end
+end
+assign binary = result;
+endmodule 
+
+
+ module gray_to_binary_tb();
+reg [3:0]gray;
+ wire [3:0]binary;
+gray_to_binary dut(.*);
+initial begin
+gray = 4'b1110;
+#10 gray = 4'b0100;
+#10 gray = 4'b1100;
+$stop;
+end
+endmodule
