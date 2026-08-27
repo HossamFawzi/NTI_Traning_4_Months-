@@ -1,0 +1,28 @@
+# do FSM.do
+# Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+# Start time: 10:37:41 on Aug 25,2026
+# vlog -work work FSM.vo 
+# ** Note: (vlog-220) 'd:/quartus/questa_fse/win64/../modelsim.ini' is used as the ini file.
+# -- Compiling module FSM
+# 
+# Top level modules:
+# 	FSM
+# End time: 10:37:41 on Aug 25,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+# Start time: 10:37:41 on Aug 25,2026
+# vlog -work work Waveform.vwf.vt 
+# ** Note: (vlog-220) 'd:/quartus/questa_fse/win64/../modelsim.ini' is used as the ini file.
+# -- Compiling module FSM_vlg_vec_tst
+# 
+# Top level modules:
+# 	FSM_vlg_vec_tst
+# End time: 10:37:41 on Aug 25,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Note: (vsim-220) 'd:/quartus/questa_fse/win64/../modelsim.ini' is used as the ini file.
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.FSM_vlg_vec_tst 
+# Start time: 10:37:47 on Aug 25,2026
+# ** Error (suppressible): (vsim-12110) All optimizations are disabled because the -novopt option is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features, please see the User's Manual section on Preserving Object Visibility with vopt. -novopt option is now deprecated and will be removed in future releases.
+# Error loading design
+# End time: 10:37:47 on Aug 25,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0

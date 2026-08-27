@@ -1,0 +1,6 @@
+
+State Machine - |FSM|fstate
+Name fstate.S0 fstate.S1 fstate.S2 
+fstate.S0 0 0 0 
+fstate.S2 1 0 1 
+fstate.S1 1 1 0 

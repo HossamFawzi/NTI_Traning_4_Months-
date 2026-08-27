@@ -1,0 +1,7 @@
+C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/labs/lab8/edge_detector_tb.v {0 {vlog -work work C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/labs/lab8/edge_detector_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module edge_detector_tb
+** Error: C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/labs/lab8/edge_detector_tb.v(22): near "=": syntax error, unexpected '=', expecting '('
+** Error: C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/labs/lab8/edge_detector_tb.v(23): near "=": syntax error, unexpected '=', expecting '('
+
+} {4.0 6.0} {}}

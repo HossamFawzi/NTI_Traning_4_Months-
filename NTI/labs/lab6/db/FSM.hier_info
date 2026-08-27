@@ -1,0 +1,15 @@
+|FSM
+reset => fstate~3.DATAIN
+clock => fstate~1.DATAIN
+A => always1.IN0
+A => always1.IN0
+A => Selector0.IN2
+A => reg_fstate.OUTPUTSELECT
+A => reg_fstate.OUTPUTSELECT
+A => Selector1.IN2
+B => always1.IN1
+B => always1.IN1
+Y0 << Y0.DB_MAX_OUTPUT_PORT_TYPE
+Y1 << Y1.DB_MAX_OUTPUT_PORT_TYPE
+
+

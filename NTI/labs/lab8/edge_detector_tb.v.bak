@@ -1,0 +1,77 @@
+`timescale 1ns / 1ps
+module edge_detector_tb();
+  reg clk,rst,in;
+  wire tick_moore,tick_meely;  
+  
+
+edge_detector dut (
+      .rst(rst),
+      .clk(clk),
+      .in  (in),
+      .tick_moore(tick_moore),
+      .tick_meely (tick_meely)      
+  );
+
+  always #5 clk = ~clk;
+  initial begin
+  clk = 0;
+  rst = 0; 
+  in   = 0;
+  tick_moore = 0 ;
+  tick_meely = 0 ;
+   @(posedge clk); 
+  #10ns in = 1'b1;
+  
+   @(negedge clk);
+  #27ns in = 1'b0 ;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   $display("Simulation complete.");
+    $finish;
+  end
+  initial begin
+    $monitor("Time=%0t | rst=%b | in=%b | tick_moore=%b tick_meely=%b", $time, rst, in, b, tick_moore , tick_meely);  
+  
+  end
+  
+  
+  
+  
+
+endmodule 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+  localparam low    = 2'b00;
+  localparam Rising = 2'b01;
+  localparam High   = 2'b01;
+  localparam Faling = 2'b01;
+*/

@@ -1,0 +1,14 @@
+module edge_detector (clk,rst,in,tick_moore,tick_meely);
+input wire clk,rst,in;
+
+output reg tick_moore;
+output reg tick_meely;
+
+
+
+
+
+
+
+
+endmodule 
