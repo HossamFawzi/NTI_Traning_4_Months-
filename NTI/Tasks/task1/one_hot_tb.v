@@ -21,8 +21,7 @@ end
 initial begin
 rst = 0;
 #50 rst =1 ;
-#50 rst = 0;
-#500 $finish;
+$finish;
 end
 
 endmodule
