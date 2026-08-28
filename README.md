@@ -29,7 +29,7 @@ The program is structured over 4 months:
 
 | Project | Description | Status |
 |---|---|---|
-| [riscv-soc-core]([https://github.com/<your-username>/riscv-soc-core](https://github.com/HossamFawzi/RISC-V--SoC-Core)) | A RISC-V SoC core with AXI4 interconnect, APB peripheral bus, and full peripheral suite (UART, SPI, I²C, GPIO, debug unit) | 🚧 In Progress |
+| [riscv-soc-core](https://github.com/HossamFawzi/RISC-V--SoC-Core)) | A RISC-V SoC core with AXI4 interconnect, APB peripheral bus, and full peripheral suite (UART, SPI, I²C, GPIO, debug unit) | 🚧 In Progress |
 | *(more projects will be added here as the training progresses)* | | |
 
 ---
