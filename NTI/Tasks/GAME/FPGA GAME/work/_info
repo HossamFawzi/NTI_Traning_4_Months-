@@ -1,0 +1,233 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vclk_divider
+Z1 IW3QlJ5;7d=Z_CbU>KMznB0
+Z2 VP98I?^Hezm8h_E_E2_WOX3
+Z3 dC:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\Tasks\GAME\FPGA GAME
+Z4 w1788128054
+Z5 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider.v
+Z6 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 ZfLaZ5:nz_<VJW[a[@DiS1
+Z10 !s108 1788129026.973000
+Z11 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vclk_divider_tb
+Z13 IGaML842QXChL]MzT_PGjn2
+Z14 V0599h?WQ@gza0JeAgW7;h1
+R3
+R4
+Z15 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider_tb.v
+Z16 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z17 !s100 Q?`^kEd2RjbBZ]Io8jH9Z0
+Z18 !s108 1788129027.014000
+Z19 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider_tb.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vedge_detector
+Z21 IG^f1^YBV9I@^i:Q5>6J9A0
+Z22 VmlNccdGVN`EOd9EA2Rh^P0
+R3
+R4
+Z23 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector.v
+Z24 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector.v
+L0 1
+R7
+r1
+31
+R8
+Z25 !s100 2?i2LjMQo;nZ=FcRBj2iO2
+Z26 !s108 1788129027.053000
+Z27 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector.v|
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vedge_detector_tb
+Z29 I^XcGcHB4AX`12[9jk?5fE0
+Z30 VSFce5KZEL76Wa1>Hk_cVW1
+R3
+R4
+Z31 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector_tb.v
+Z32 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z33 !s100 j3Kl@7ICjlKaFMTdSlTVf1
+Z34 !s108 1788129027.091000
+Z35 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector_tb.v|
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vgame_controller
+Z37 I]J;6?2NzfolUlW0FV:;g^2
+Z38 V45SPjWHbXN?zfba[ma=Pe0
+R3
+R4
+Z39 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller.v
+Z40 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller.v
+L0 1
+R7
+r1
+31
+R8
+Z41 !s100 `@C4<=_>iG^F:HAlW5YMB0
+Z42 !s108 1788129027.126000
+Z43 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller.v|
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vgame_controller_tb
+Z45 IGRCbXUOW0?oHAH>NPZCoP0
+Z46 VEIQL2EHAi>Qh;TKAh`a?]1
+R3
+R4
+Z47 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller_tb.v
+Z48 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z49 !s100 V7JFW3HWh_Ef[Bo0i?idU1
+Z50 !s108 1788129027.164000
+Z51 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller_tb.v|
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vone_hot
+Z53 ICX6mk3b9GZ9?U;QXhPRe]3
+Z54 Vnn:^^f^7zfc<iBCZnGZ?o1
+R3
+R4
+Z55 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot.v
+Z56 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot.v
+L0 1
+R7
+r1
+31
+R8
+Z57 !s100 R5]kPLQ8_ooh4ELHfMK=b3
+Z58 !s108 1788129027.200000
+Z59 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot.v|
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vone_hot_tb
+Z61 I20lo`:aVdJnOzg<_?aD[J1
+Z62 V5lF4eaIGfTgFnzLFgm^Im1
+R3
+R4
+Z63 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot_tb.v
+Z64 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z65 !s100 JS2OVlN=Qm8e:;C6eg`<o0
+Z66 !s108 1788129027.240000
+Z67 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot_tb.v|
+Z68 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsev_seg
+Z69 I^4J4zQ?VeQn]S0HWI:>OJ0
+Z70 V1^]Aho?B_c9NoR9OA;3c^0
+R3
+R4
+Z71 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg.v
+Z72 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg.v
+L0 1
+R7
+r1
+31
+R8
+Z73 !s100 O5=H8J=Fz5?iKP0]Z00YG0
+Z74 !s108 1788129027.281000
+Z75 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg.v|
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsev_seg_tb
+Z77 Idd3mkbVaY4HV]k^lOSEJ40
+Z78 V<MMLg;B]9j<Q<:5iehE;?3
+R3
+R4
+Z79 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg_tb.v
+Z80 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z81 !s100 Zoa?1j0>O@2TGV_2_g;OD2
+Z82 !s108 1788129027.315000
+Z83 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg_tb.v|
+Z84 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop
+Z85 IA?0UZI`MP0^Tgz<K0iUeG2
+Z86 VRNLPn9TVImo08jenJF`@`0
+R3
+R4
+Z87 8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top.v
+Z88 FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top.v
+L0 1
+R7
+r1
+31
+R8
+!i10b 1
+Z89 !s100 ^U=3clKbHH57A?2c<Z00Y1
+!s85 0
+Z90 !s108 1788129027.351000
+Z91 !s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top.v|
+Z92 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top.v|
+!s101 -O0
+vtop_tb
+!i10b 1
+!s100 ]ZWSiKJAV1E1_[n30Z?a[0
+IWRS^D=C`HA27zm;[b=lSh0
+VN7^ihbmI9enFg9D=Qco243
+R3
+R4
+8C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top_tb.v
+FC:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1788129027.390000
+!s107 C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top_tb.v|
+!s101 -O0
+R8

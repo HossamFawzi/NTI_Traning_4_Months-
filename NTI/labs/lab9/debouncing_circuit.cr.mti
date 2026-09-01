@@ -1,0 +1,17 @@
+C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/labs/lab9/debouncing_circuit.v {2 {vlog -work work {C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module debouncing_circuit
+** Warning: C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit.v(14): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+
+
+Top level modules:
+	debouncing_circuit
+
+} {} {}} C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/labs/lab9/debouncing_circuit_tb.v {1 {vlog -work work {C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module debouncing_circuit_tb
+
+Top level modules:
+	debouncing_circuit_tb
+
+} {} {}}

@@ -5,7 +5,6 @@ module one_hot(
 reg direction;
 localparam RIGHT = 1'b0;
 localparam LEFT  = 1'b1;
-
 always @(posedge clk or negedge rst) begin
     if (!rst) begin
         led       <= 10'b0000010000; 

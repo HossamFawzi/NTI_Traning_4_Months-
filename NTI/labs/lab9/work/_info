@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\Tasks\task1
+vdebouncing_circuit
+Z1 IjQZJTBC2e=N8V4DU?JPXG2
+Z2 VP5^SKgid<QIJSgh9LTc:?3
+Z3 dC:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9
+Z4 w1788080461
+Z5 8C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit.v
+Z6 FC:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 ShhXd9HU[aV@LWGXARRTm1
+!s85 0
+Z11 !s108 1788080480.572000
+Z12 !s107 C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit.v|
+!s101 -O0
+vdebouncing_circuit_tb
+!i10b 1
+Z13 !s100 ?z0VJW^mDU^hQaa;gQEGE1
+Z14 I^GRgU`Ym`mW1>IAB]19@P0
+Z15 VND;8k9:kIWKkiE:EUdeLi2
+R3
+Z16 w1788080094
+Z17 8C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit_tb.v
+Z18 FC:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit_tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1788080480.611000
+!s107 C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit_tb.v|
+Z19 !s90 -reportprogress|300|-work|work|C:\Users\lenovo\OneDrive\Desktop\NTI_Traning_4_Months-\NTI\labs\lab9\debouncing_circuit_tb.v|
+!s101 -O0
+R9

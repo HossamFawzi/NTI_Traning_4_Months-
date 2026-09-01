@@ -1,0 +1,78 @@
+{C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module clk_divider
+
+Top level modules:
+	clk_divider
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot_tb.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module one_hot_tb
+
+Top level modules:
+	one_hot_tb
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sev_seg
+
+Top level modules:
+	sev_seg
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider_tb.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/clk_divider_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module clk_divider_tb
+
+Top level modules:
+	clk_divider_tb
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module edge_detector
+
+Top level modules:
+	edge_detector
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top_tb.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/top_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg_tb.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/sev_seg_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sev_seg_tb
+
+Top level modules:
+	sev_seg_tb
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller_tb.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module game_controller_tb
+
+Top level modules:
+	game_controller_tb
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector_tb.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/edge_detector_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module edge_detector_tb
+
+Top level modules:
+	edge_detector_tb
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/one_hot.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module one_hot
+
+Top level modules:
+	one_hot
+
+} {} {}} {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller.v} {1 {vlog -work work {C:/Users/lenovo/OneDrive/Desktop/NTI_Traning_4_Months-/NTI/Tasks/GAME/FPGA GAME/game_controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module game_controller
+
+Top level modules:
+	game_controller
+
+} {} {}}
